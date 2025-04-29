@@ -1,0 +1,44 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: rgb(41, 35, 35);
+    margin-left: 381px;
+    margin-right: 381px;
+    padding: 10px;
+    font-size: 64px;
+    width: 636px;
+    margin-top: 22px;
+}
+
+body{
+    background-color: rgba(53, 52, 49, 0.74);
+}
+
+.hg{
+    background-color: bisque;
+    width: 696px;
+    height: 259px;
+    margin-left: 52px;
+    margin-right: 272px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.pp {
+    margin-top: 34px;
+    margin-bottom: 54px;
+}
+
+.yty{
+    border: 5px solid red;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 52px;
+    background-color: black;
+    width: 850px;
+}
